@@ -3,8 +3,8 @@ from instapy import InstaPy
 from instapy import smart_run
 
 # Login
-insta_username = 'dev_sareer'
-insta_password = 'passwordistemp'
+insta_username = ''
+insta_password = ''
 
 session = InstaPy(username=insta_username,
                   password=insta_password)
